@@ -26,7 +26,7 @@ public class DBConfig {
         System.out.println("===DBConfig 출력===");
         System.out.println(System.getenv("DB_PASSWORD"));
         System.out.println(encryptor.decrypt("kyg1Cz77uJ4nRKr6zT2CGGqmWWC29Z9qJiZ2UTwjgBA="));
-        System.out.println(encryptor.decrypt("uMLhCriEn0HE6WlPzNeO3cPXeGF6V3UzPV1AQ024R5uNxjEuevYIZ1yilSdhW4z9viivItUnTHDAaZOL72uCCJ3Gvg4Cy/BkTke4Jg7kGoirqhW3kTm5WQvvRS3AzdUqrWizcLvaU2g="));
+        System.out.println(encryptor.decrypt("SSTrYIRyL6bGkydPFSkAFnCoB98g3ZSiaRslgy5KirxKZxm03mlxrb1HkKMdoBrfqMORk4tZHzyw7jpwIL7Ho5FqKLNZZSI+h+Nr+TPz086kMFP0O+eOpjVqlbEHKwjiBGavzqezpJY="));
         System.out.println(encryptor.decrypt("z5YOrbBawKwL3Dmx8Dq6+fyGbbF/SxOu"));
         System.out.println(encryptor.decrypt("jSlvXUfC/4wi1e4p+83VFXN1gfpJN96r"));
 

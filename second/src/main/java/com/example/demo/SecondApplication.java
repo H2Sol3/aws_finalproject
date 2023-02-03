@@ -17,7 +17,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class SecondApplication {
 
 	public static void main(String[] args) {
-		User user = new User();
+	//	User user = new User();
 		SpringApplication.run(SecondApplication.class, args);
 	}
 
